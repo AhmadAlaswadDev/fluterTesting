@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1006364124183-8cc2b1dm45l7kfhokndbji4rgjofgtvi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1006364124183-8cc2b1dm45l7kfhokndbji4rgjofgtvi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBhZ8j8GpQyme9-CRhnOwHU9JumRNTRFJ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1006364124183</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bestcoders.zaheed</string>
+	<key>PROJECT_ID</key>
+	<string>zaheed-d96af</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zaheed-d96af.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1006364124183:ios:c52960c28dee2c608d6852</string>
+	<key>DATABASE_URL</key>
+	<string>https://zaheed-d96af-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

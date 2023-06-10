@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="141.051" height="126.852" viewBox="0 0 141.051 126.852">
+  <g id="Group_11481" data-name="Group 11481" transform="translate(-117.474 -325.471)">
+    <path id="heart" d="M67.456,16.99C54.359,1.68,32.521-2.439,16.113,11.581S-2.6,49.04,10.281,65.621c10.713,13.786,43.136,42.861,53.762,52.272a7.543,7.543,0,0,0,2.477,1.786,3.3,3.3,0,0,0,1.873,0,7.543,7.543,0,0,0,2.477-1.786c10.626-9.41,43.049-38.486,53.762-52.272a38.73,38.73,0,0,0-5.833-54.04C102.107-2.291,80.551,1.68,67.456,16.99Z" transform="translate(120.5 327.5)" fill="none" stroke="red" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" fill-rule="evenodd"/>
+    <g id="Group_11441" data-name="Group 11441" transform="translate(169.364 370.364)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M19.992,0,0,19.99" transform="translate(8.641 8.639)" fill="red" stroke="red" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_2" data-name="Stroke 2" d="M20,20,0,0" transform="translate(8.636 8.635)" fill="red" stroke="red" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
